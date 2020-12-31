@@ -53,6 +53,7 @@
 - github의 로그인창 오른쪽 위 + 칸에서 repo를 만듦
 - Local을 저장소 에 등록
 - push origin master를 이용해 등록! 
+- git hub의 초록색(learn) 영역은 commit 수를 기준으로 찐해진다.
 
 
 

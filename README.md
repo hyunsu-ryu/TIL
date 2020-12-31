@@ -1,15 +1,7 @@
 # Today  I learned
 
-이것은 설명서이다.
+### - git / github
 
-[toc]
-
-## 소제목 1
-
-
-
-## 소제목 2
-
-
-
-:dog:
+1. git_basic (add, commit)
+2. git_branch # github (push, pull)
+3. git_team Project

@@ -20,6 +20,7 @@
 | `git merge <branch>` #`(master)있는 영역에서 실행하기`       | master에서 하위 branch를 가져와 병합하는 과정                |
 | `re -f <dir/file> # re -rf <dir/file>`                       | 파일을 지운다(지울껀지 다시물어봄),  파일을 지운다 (강제삭제) |
 | `git remote -v`                                              | 현재 TIL의 위치 확인 가능                                    |
+| `$ git log --pretty=format:"%h %s" --graph`                  | master와 branch 의 현재까지의 관계를 보여주는 것(위에서부터 최근꺼임) |
 
 - remote repo(원격저장소)
 - HEAD : 내가 보는 부분!

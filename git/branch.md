@@ -41,7 +41,8 @@
 
 ### 	C. 2개의 branch에서 같은 Line 충돌 시 우리한테 제어권을 넘김 우리가 수동(VC)로 결		정해줘야 함(conflict = manual merge commit)
 
-
+- merge를 할때에는 해당 branch에서 나온 후 master 영역에서 merge 해준다.  그러면 branch 요소는 모두 master 것이 되며 branch의 영역은 더이상 쓸모가 없게 되므로 해당 branch는 지워주면 된다!
+- branch의 name은 bugfix/indent 처럼 조금 복잡하게 해도 된다.
 
 
 

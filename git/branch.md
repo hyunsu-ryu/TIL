@@ -17,10 +17,18 @@
 | `$ git switch <branch>`                                      | 해당 branch로 이동                                           |
 | `$ git switch -c <branch> == $ git checkout -b <branch>`     | branch를 생성함과 동시에 그 branch로 이동                    |
 | `$ git checkout <branch/commit_id>`                          | head를 branch로 이동한다 , commit 부분은 h1 처럼 거쳐간 과거를 들여다 보는 기능 |
-| `git merge <branch>` #`(master)있는 영역에서 실행하기`       | master에서 하위 branch를 가져와 병합하는 과정                |
-| `re -f <dir/file> # re -rf <dir/file>`                       | 파일을 지운다(지울껀지 다시물어봄),  파일을 지운다 (강제삭제) |
-| `git remote -v`                                              | 현재 TIL의 위치 확인 가능                                    |
+| `$ git merge <branch>` #`(master)있는 영역에서 실행하기`     | master에서 하위 branch를 가져와 병합하는 과정                |
+| `$ re -f <dir/file> # $ re -rf <dir/file>`                   | 파일을 지운다(지울껀지 다시물어봄),  파일을 지운다 (강제삭제) |
+| `$ git remote -v`                                            | 현재 TIL의 위치 확인 가능                                    |
 | `$ git log --pretty=format:"%h %s" --graph`                  | master와 branch 의 현재까지의 관계를 보여주는 것(위에서부터 최근꺼임) |
+| `$ git merge --abort`                                        | Merge 하기전으로 되돌림                                      |
+| `$ git merge -Xignore-space-change white space # git merge -Xignore-all-sapce` | Merge 할때 repo에 있는 N번째 라인이 공백 (띄워쓰기만 있는곳)이라면 merge를 실행한다. |
+| `$ git show`                                                 | 조상부터 지금까지의 각 버젼의 파일을 꺼내 볼 수 있다.        |
+| `$ git ls-files -u`                                          | 각 version의 파일의 고유번호를 알 수 있다.                   |
+| `$ git diff --ours `                                         | merge 후 결과를 하기 전과 비교, 무엇이 합쳐졌는지 알려줌(-는 있던것, +는 추가된것), |
+| `$ git diff --theris -b ## git diff --base`                  | 양쪽 부모에 대해 무었이 바뀌었느지 확인(-b는 공백을 빼고 비교하기위한 명령어) ## 양쪽 모두와 비교하여 바뀐점 알아보기 |
+| `$ git clean`                                                | 수동 Merge를 위해 만든 각종 파일을 지워줌                    |
+| `$ git revert -m 1 `HEAD                                     | master의 commit은 남겨두고  branch의 commit은 지워준다. (잘 쓸일은 없다) |
 
 - remote repo(원격저장소)
 - HEAD : 내가 보는 부분!

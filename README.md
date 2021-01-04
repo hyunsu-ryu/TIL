@@ -22,7 +22,9 @@
 
 ## - python 
 
-
+0. memory_지식
+1. basic_of_python
+2. 조건문_반복문
 
 ## - CLI
 

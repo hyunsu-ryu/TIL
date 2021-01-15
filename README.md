@@ -40,6 +40,8 @@
 15. 고급문법
 16. 스레드(Thread)     (중요!!)
 17. 네트워크_프로그래밍 (중요!!!)
+18. MQTT
+19. MQTT python Client - Paho
 
 ## - CLI
 

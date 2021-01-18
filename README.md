@@ -16,7 +16,10 @@
 
 ## - IoT tools
 
+## - MariaDB(SQL)
 
+1. MariaDB 설치, 데이터베이스 구축, 모델링 절차
+2. SQL 기본 (SELECT, UPDATE, DELETE)
 
 
 

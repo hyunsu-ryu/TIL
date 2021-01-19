@@ -21,7 +21,10 @@
 1. MariaDB 설치, 데이터베이스 구축, 모델링 절차
 2. SQL 기본 (SELECT, UPDATE, DELETE)
 
-
+3. SQL 심화
+4. SQL 고급 - 조인(join)
+5. 테이블과 뷰, 인덱스
+6. 데이터베이스(Sqlite3, MySQLdb 모듈들)
 
 ## - python 
 

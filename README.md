@@ -16,6 +16,11 @@
 
 ## - IoT tools
 
+## - Web(HTML, CSS, Javascript)
+
+1. HTML5 문서
+2. HTML 기본태그
+
 ## - MariaDB(SQL)
 
 1. MariaDB 설치, 데이터베이스 구축, 모델링 절차

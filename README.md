@@ -16,11 +16,13 @@
 
 ## - IoT tools
 
-## - Web(HTML, CSS, Javascript)
+## - Web(Django,HTML, CSS, Javascript)
 
 1. HTML5 문서
 2. HTML 기본태그
 3. CSS3 태그,속성
+4. Bootstrap4,  Jumbotron, Navbar, Utilities
+5. Django 웹 프레임워크 관리
 
 ## - MariaDB(SQL)
 

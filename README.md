@@ -16,7 +16,14 @@
 
 ## - IoT tools
 
-## - Web(Django,HTML, CSS, Javascript)
+## - Django
+
+0. HTTP 프로토콜
+1. Django 웹 프레임워크 관리
+2. 클래스를이용한 실습 예제 확장
+3. Django의 핵심 기능
+
+## - Web(HTML, CSS, Javascript)
 
 1. HTML5 문서
 2. HTML 기본태그

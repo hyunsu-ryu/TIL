@@ -22,6 +22,9 @@
 1. Django 웹 프레임워크 관리
 2. 클래스를이용한 실습 예제 확장
 3. Django의 핵심 기능
+4. 장고 기본개발설정, 가상환경 설정
+5. 실전 프로그램 개발 - Bookmark App
+6. 실전 프로그램 개발 - Blog(게시판) App
 
 ## - Web(HTML, CSS, Javascript)
 

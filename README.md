@@ -29,6 +29,7 @@
 8. 태그, 검색, 로그인(인증) 기능 추가하기
 9. 콘텐츠 편집 기능 (Blog, Bookmark, TinyMCE)
 10. 콘텐츠 편집 (파일 업로드, 다운로드기능)
+11. 커스텀 유저 모델
 
 ## - Web(HTML, CSS, Javascript)
 

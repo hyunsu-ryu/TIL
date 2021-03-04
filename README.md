@@ -58,6 +58,8 @@
 17. 조이스틱
 18. 서보모터 & 키패드
 19. EEPROM & RFID(SPI 통신)
+20. DC모터 구동(차량) & 아두이노 블루투스 통신
+21. WiFi 통신모듈(NodeMCU) & MQTT 라이브러리
 
 ## - Django
 

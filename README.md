@@ -85,6 +85,11 @@
 4. Bootstrap4,  Jumbotron, Navbar, Utilities
 5. Django 웹 프레임워크 관리
 
+## - MongoDB
+
+1. MongoDB 기초
+2. CRUD 메서드
+
 ## - MariaDB(SQL)
 
 1. MariaDB 설치, 데이터베이스 구축, 모델링 절차

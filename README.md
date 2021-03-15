@@ -71,6 +71,10 @@
 6. 간단한 그래픽 처리
 7. Open CV 기본연산
 8. Open CV 얼굴영역 추출
+9. client-server를 통한 영상 데이터 송수신
+10. Picamera 기초
+11. 이미지 프로세싱
+12. 라즈베리파이 이미지프로세싱 Server, Client 활용
 
 ## - Django
 

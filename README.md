@@ -74,6 +74,14 @@
 9. client-server를 통한 영상 데이터 송수신
 10. Picamera 기초
 11. 이미지 프로세싱 Server, Client  (라즈베리파이 -- PC)
+12. picamera 네트워크 스트림(비디오스트리밍) 얼굴검출
+13. pyAudio
+14. pydub 모듈(Kakao)(음원파일 다룸)
+15. Sounddevice 모듈(초당 간격 설정)
+16. obj-detect-api-ex (이미지 OpenAI 해석과정)
+17. requests모듈
+18. CCTV  Django를 통한 실시간 스트리밍 전송, 캡쳐(카카오,라즈베리파이)
+19. 아두이노,조이스틱 이용한 전송 캡쳐(라즈베리파이이용)
 
 ## - Django
 

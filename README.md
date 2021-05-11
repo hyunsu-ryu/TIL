@@ -17,11 +17,21 @@
 
 
 
-## -algorithms
+## -Android_Studio
 
-
-
-
+1. button
+2. edittext
+3. textview
+4. usingxml
+5. activitylife
+6. calculator
+7. logcat
+8. addActivity
+9. Recyclerview
+10. toast_noti
+11. ustingintent
+12. mqtt_ex
+13. gateway_device
 
 ## - C++
 

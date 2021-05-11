@@ -1,0 +1,4 @@
+include ':app', ':MyLib'
+rootProject.name = "ElectFrame"
+
+project(':MyLib').projectDir = new File('C:\\MyLibBase\\MyLib')
